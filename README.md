@@ -1,1 +1,1 @@
-# server-status-bot
+# spark-server-status

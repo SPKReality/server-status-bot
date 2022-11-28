@@ -1,0 +1,18 @@
+{
+    "URL_SERVER": "",
+    "SERVER_NAME": "Spark RP",
+    "SERVER_LOGO": "",
+    "EMBED_COLOR": "#00f931",
+    "PERMISSION": "ADMINISTRATOR",
+    "BOT_TOKEN": "",
+    "CHANNEL_ID": "",
+    "MESSAGE_ID": "",
+    "SUGGESTION_CHANNEL": "",
+    "BUG_CHANNEL": "",
+    "BUG_LOG_CHANNEL": "",
+    "LOG_CHANNEL": "",
+    "DEBUG": false,
+    "WEBSITE_URL": "",
+    "RESTART_TIMES": "",
+    "SHOW_PLAYERS": false // True = Show players on message ||| False Doesnt show players on message
+  }
